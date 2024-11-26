@@ -11,7 +11,7 @@ const About = ()=>
 
         <div style={{marginTop:"50px"}}>
             <div style={{display:"flex", justifyContent:"center", marginBottom:"80px"}} >
-                <img src={banner} height={400} />
+                <img src={banner} height={400} alt="Images is not there" />
             </div>
 
             <div style={{textAlign:"center", marginLeft:"80px", marginRight:"80px", marginBottom:"80px"}} >
@@ -22,7 +22,7 @@ What triggered these thoughts was the liberalisation of the Indian economy in th
             </div>
 
             <div style={{display:"flex", justifyContent:"center", marginBottom:"80px"}} >
-                <img src={banner2} height={400} />
+                <img src={banner2} height={400} alt="Images is not there" />
             </div>
 
             <div style={{textAlign:"center", marginLeft:"80px", marginRight:"80px", marginBottom:"80px"}} >
